@@ -18,18 +18,6 @@ A simple Android application that allows users to view weather forecasts using r
 
 ## 📁 Project Structure
 
-WeatherApp/
-├── app/
-│ ├── src/
-│ │ └── main/
-│ │ ├── java/com/example/weatherapp/
-│ │ │ ├── MainActivity.java
-│ │ │ ├── WeatherRVAdapter.java
-│ │ │ └── WeatherRvModel.java
-│ │ └── res/
-│ │ ├── layout/
-│ │ ├── drawable/
-│ │ └── mipmap/
-├── build.gradle
-└── settings.gradle
+![image](https://github.com/user-attachments/assets/a259d14c-ca8a-4a8d-a00a-0e66ad54dd32)
+
 
